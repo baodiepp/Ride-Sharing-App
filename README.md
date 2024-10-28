@@ -1,0 +1,2 @@
+# Ride-Sharing-App
+This code serves as the operational core for a ride-sharing platform, orchestrating the interactions between drivers and passengers. It’s essentially a Python-built backend for an application similar to UBER, leveraging the principles of Object-Oriented Programming (OOP) to emulate the dynamics of pick-up and drop-off requests. Concurrently, it updates a tracking system with all event data and grid coordinates. Additionally, the system can compute the average distance covered by drivers and track the status of completed or cancelled requests.
